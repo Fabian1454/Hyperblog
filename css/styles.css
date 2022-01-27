@@ -12,3 +12,21 @@ body
     align-items: center;
 }
 
+#cabecera {
+    display: inline-block;
+    text-align: center;
+    color: cornsilk;
+    background-color: slategray;
+    border-radius: 12px;
+    text-align: center;
+    width: 30%;
+    height: auto;
+    justify-content: center;
+    vertical-align: baseline;
+    align-items: center;
+    align-content: center;
+    -webkit-box-align: center;
+    padding: 5px 5px 5px 5px;
+    margin-top: 40px;
+    font-size: 50px;
+}
