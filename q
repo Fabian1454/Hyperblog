@@ -1,0 +1,230 @@
+[33mcommit 58dd776d1e7fe567dda9825eadc0545f86b39c9d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: eda5600 b44891a
+Author: Fabian1454 <89866351+Fabian1454@users.noreply.github.com>
+Date:   Mon Jan 31 20:02:07 2022 -0500
+
+    Merge pull request #3 from Fabian1454/fix-typo
+    
+    Cambio de redes sociales
+
+[33mcommit b44891a60ed4527f96ef92eb4b2f11b193564ec9[m[33m ([m[1;31morigin/fix-typo[m[33m, [m[1;32mfix-typo[m[33m)[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Mon Jan 31 19:51:53 2022 -0500
+
+    Cambio de redes sociales
+
+[33mcommit eda56008cfc1ed18ca85b42ddfddf01fc1cf58cd[m[33m ([m[1;32mfooter[m[33m)[m
+Merge: 7660e6f e986a40
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Mon Jan 31 19:35:36 2022 -0500
+
+    Merge branch 'header' into footer>ZZZ Please enter a commit message to explain why this merge is necessary,
+
+[33mcommit 7660e6f6790c0bd7fd881025de465cae14a5885c[m[33m ([m[1;31morigin/footer[m[33m)[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Mon Jan 31 19:27:09 2022 -0500
+
+    Ahora google tiene instagram
+
+[33mcommit e986a40e2895c42b485c408ca3c03fbe3fb8078d[m[33m ([m[1;31morigin/header[m[33m, [m[1;32mheader[m[33m)[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Mon Jan 31 19:25:52 2022 -0500
+
+    Ahora google tiene Facebook
+
+[33mcommit 7a60c308606ed7e8dc21d8fa682db1603746cc2d[m
+Merge: 886c275 428dca7
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Mon Jan 31 19:21:48 2022 -0500
+
+    gerge branch 'header' of github.com:Fabian1454/Hyperblog into header
+
+[33mcommit 50229f2272fc51c276cbd67f2b43912d43f3cc19[m
+Merge: 886c275 5f203b3
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Mon Jan 31 19:19:44 2022 -0500
+
+    conflictos solucionados
+
+[33mcommit 886c2750f046811a928164ca6b59b41875c421b5[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Mon Jan 31 19:07:58 2022 -0500
+
+    Google clone v2.0
+
+[33mcommit 8a5be84bcac4d4e43023c0e84f67a8999977bcdb[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Mon Jan 31 19:05:33 2022 -0500
+
+    cambio a google clone
+
+[33mcommit 5f203b36ddf31e02bdf85e6cb2c6a712a902ede2[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Sun Jan 30 23:02:43 2022 -0500
+
+    Este es un cambio feo que irá al footer
+
+[33mcommit 428dca779a73edb88cf814edf9885bffe43986a3[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Sun Jan 30 22:47:00 2022 -0500
+
+    logo de manualidades chanel
+
+[33mcommit 4447d064ef5cccf98b7a29cf234c82d69c67239f[m
+Author: Fabian1454 <fabian2074053@gmail.com>
+Date:   Fri Jan 28 12:18:51 2022 -0500
+
+    Cambio desde el compu de la ofi
+
+[33mcommit 87bfcbd90b3aaff249f479d297cd761a8a3d19bb[m
+Merge: 86aab7e 58a0644
+Author: Fabian1454 <89866351+Fabian1454@users.noreply.github.com>
+Date:   Thu Jan 27 21:53:46 2022 -0500
+
+    Merge pull request #2 from Fabian1454/master
+    
+    Master
+
+[33mcommit 58a0644ab22efa3699358265f3ee0370487dcc71[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Thu Jan 27 21:48:49 2022 -0500
+
+    No funcionó
+
+[33mcommit f31013aa608addaad4d5a93d02b23930391e5c57[m[33m ([m[1;33mtag: era_de_noche2[m[33m)[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Thu Jan 27 21:45:10 2022 -0500
+
+    Son las 9;45 PM
+
+[33mcommit 86aab7ec4c459c7401884a25f16ddc4fa1b65e44[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Fabian1454 <89866351+Fabian1454@users.noreply.github.com>
+Date:   Thu Jan 27 20:52:02 2022 -0500
+
+    Cambié el titulo de l documento
+
+[33mcommit fecb669767c48204eb2f00808caddc70ac267d77[m
+Merge: f0729d5 15c8391
+Author: Fabian1454 <89866351+Fabian1454@users.noreply.github.com>
+Date:   Thu Jan 27 20:48:43 2022 -0500
+
+    Merge pull request #1 from Fabian1454/master
+    
+    Master
+
+[33mcommit 15c83913003aa0b98b2ffda53df95baa58e9ae19[m
+Merge: a908494 f0729d5
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Thu Jan 27 20:45:13 2022 -0500
+
+    Merge branch 'main' of https://github.com/Fabian1454/Hyperblog
+
+[33mcommit f0729d5108e117e13ad18e6abaef26c67de96731[m
+Author: Fabian1454 <89866351+Fabian1454@users.noreply.github.com>
+Date:   Thu Jan 27 20:05:28 2022 -0500
+
+    Initial commit
+
+[33mcommit a9084946474e6a0dda1ff1e400665b67b2a630c3[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Thu Jan 27 19:55:36 2022 -0500
+
+    Ahora que sí
+
+[33mcommit 9aa969a19bc9ac1f0e0cd2411500c07af3f30dcc[m[33m ([m[1;33mtag: v0.2[m[33m, [m[1;33mtag: v0.1[m[33m)[m
+Merge: 51d28d1 f52cfb6
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Thu Jan 27 19:18:19 2022 -0500
+
+    Conflicto solucionado
+
+[33mcommit 51d28d12cd9b47490ab7237a3268e4844aace1cf[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Thu Jan 27 19:14:00 2022 -0500
+
+    Hola pendejos 2
+
+[33mcommit a2c8c8bfa04c7053cdc0c3e0d5be1cc09115de05[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Thu Jan 27 19:13:04 2022 -0500
+
+    Hola pendejos
+
+[33mcommit f52cfb645c0d1f1fa60729f06d07c0d2b35f9990[m[33m ([m[1;31morigin/cabecera[m[33m)[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Thu Jan 27 19:11:57 2022 -0500
+
+    Cabecera y color de texto
+
+[33mcommit 2a4c239c970508d35327333641df7173ed878ac7[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 21:54:47 2022 -0500
+
+    Mejor tipografía
+
+[33mcommit 619054bc2179d07bffd488bf175c323485c8bfb6[m
+Merge: 74e0b8a e1dd9cb
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 21:51:12 2022 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit 74e0b8a7eaafb920adefceac595550efaf93bbeb[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 21:48:22 2022 -0500
+
+    Agregar un P
+
+[33mcommit e1dd9cba29c40292716aa615a23fb33592e48c59[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 21:45:49 2022 -0500
+
+    Cabecera con diseño
+
+[33mcommit 379f05fc40d7b77d957d50fb79ff3cc1366401f8[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 21:30:23 2022 -0500
+
+    Cambios agregados a la cabecera
+
+[33mcommit e723bb4cba0a258813088e4204f8286ec4ad3c45[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 21:24:14 2022 -0500
+
+    Cambio de h4
+
+[33mcommit efee4b61ed682f3230e40263a86385be47390730[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 20:54:56 2022 -0500
+
+    prueba cambios
+
+[33mcommit 2fb1d24cf07517a3d2db51724ec976c5b735095e[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 20:39:14 2022 -0500
+
+    remplazo de versión
+
+[33mcommit 61e27651b0c0ac364d348342214ac0fc7cc82731[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 20:30:25 2022 -0500
+
+    Cambio 3
+
+[33mcommit cc73ba17a471d2c930db77d7a7e354d84bb6186b[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 20:29:49 2022 -0500
+
+    Cambio 2
+
+[33mcommit 5b0d9767e7b5eed544c90e1339143461b641ce9e[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 20:26:28 2022 -0500
+
+    real no fake proyecto
+
+[33mcommit 43837c43e218498cbcb2770242d142bdfa33ae72[m
+Author: Fabián Miranda <Fabian2074053@gmail.com>
+Date:   Wed Jan 26 19:09:58 2022 -0500
+
+    hola
